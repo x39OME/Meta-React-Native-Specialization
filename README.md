@@ -2,7 +2,7 @@
 
 <img src="./logo.avif">
 
-- This repo contains all of 9 courses in the Coursera Professional Certificate: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- This repo contains all of 8 courses in the Coursera Professional Certificate: [Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native)
 
 ## Table of Content
 

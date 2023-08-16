@@ -1,4 +1,4 @@
-# Meta Front-End Developer Professional Certificate
+# Meta React Native Specialization
 
 <img src="./logo.avif">
 

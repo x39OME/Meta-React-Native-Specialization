@@ -9,10 +9,10 @@
 <details>
 <summary><b>Course 1: </b><a href=""><b>Introduction to Mobile Development</b></a></summary>
 
-  * Week 1: Mobile Applications
-  * Week 2: Introduction to HTML and CSS
-  * Week 3: React and React Native
-  * Week 4: Course summary and graded assessment
+  * Week 1: [Mobile Applications]()
+  * Week 2: [Introduction to HTML and CSS]()
+  * Week 3: [React and React Native]()
+  * Week 4: [Course summary and graded assessment]()
 </details>
 
 <details>
@@ -20,7 +20,7 @@
 
   * Week 1: [Introduction to Javascript]()
   * Week 2: [The Building Blocks of a Program]()
-  * Week 3: [Programming Paradigms](h)
+  * Week 3: [Programming Paradigms]()
   * Week 4: [Testing]()
   * Week 5: [End-of-Course Graded Assessment]()
 </details>
@@ -66,10 +66,10 @@
 <summary><b>Course 7: </b><a href=""><b>Principles of UI/UX Design</b></a></summary>
 
   * Week 1: [Introduction to UX and UI design]()
-  * Week 2: [Evaluating interactive design]()
+  * Week 2: [Evaluating interactive design])
   * Week 3: [Applied Design Fundamentals]()
   * Week 4: [Designing your UI]()
-  * Week 5: 
+  * Week 5: [Course summary and final assessment]()
 </details>
 
 <details>

@@ -66,7 +66,7 @@
 <summary><b>Course 7: </b><a href=""><b>Principles of UI/UX Design</b></a></summary>
 
   * Week 1: [Introduction to UX and UI design]()
-  * Week 2: [Evaluating interactive design])
+  * Week 2: [Evaluating interactive design]()
   * Week 3: [Applied Design Fundamentals]()
   * Week 4: [Designing your UI]()
   * Week 5: [Course summary and final assessment]()

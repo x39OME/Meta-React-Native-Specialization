@@ -6,10 +6,10 @@
 
 ## Table of Content
 
-  - Week 1: Mobile Applications
-  - Week 2: Introduction to HTML and CSS
-  - Week 3: React and React Native
-  - Week 4: Course summary and graded assessment
+  - Week 1: [Mobile Applications]()
+  - Week 2: [Introduction to HTML and CSS]()
+  - Week 3: [React and React Native]()
+  - Week 4: [Course summary and graded assessment]()
 
 ## Proof of Completion
 

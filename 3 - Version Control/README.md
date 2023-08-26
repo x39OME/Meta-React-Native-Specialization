@@ -6,7 +6,7 @@
 
 ## Table of Content
 
-  - Week 1:[Software collaboration
+  - Week 1: Software collaboration
   - Week 2: Command Line
   - Week 3: Working with Git
   - Week 4: Graded Assessment

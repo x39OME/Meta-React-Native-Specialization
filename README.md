@@ -9,10 +9,10 @@
 <details>
 <summary><b>Course 1: </b><a href=""><b>Introduction to Mobile Development</b></a></summary>
 
-  * Week 1: []()
-  * Week 2: []()
-  * Week 3: []()
-  * Week 4: []()
+  * Week 1: Mobile Applications
+  * Week 2: Introduction to HTML and CSS
+  * Week 3: React and React Native
+  * Week 4: Course summary and graded assessment
 </details>
 
 <details>

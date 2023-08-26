@@ -6,11 +6,11 @@
 
 ## Table of Content
 
-  - Week 1: Introduction to UX and UI design
-  - Week 2: Evaluating interactive design
-  - Week 3: Applied Design Fundamentals
-  - Week 4: Designing your UI
-  - Week 5: Course summary and final assessment
+  - Week 1: [Introduction to UX and UI design]()
+  - Week 2: [Evaluating interactive design])
+  - Week 3: [Applied Design Fundamentals]()
+  - Week 4: [Designing your UI]()
+  - Week 5: [Course summary and final assessment]()
 
 ## Proof of Completion
 

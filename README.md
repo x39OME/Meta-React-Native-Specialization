@@ -9,10 +9,10 @@
 <details>
 <summary><b>Course 1: </b><a href=""><b>Introduction to Mobile Development</b></a></summary>
 
-  * Week 1: [Mobile Applications]()
-  * Week 2: [Introduction to HTML and CSS]()
-  * Week 3: [React and React Native]()
-  * Week 4: [Course summary and graded assessment]()
+  * Week 1: [Mobile Applications](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/1-%20Introduction%20to%20Mobile%20Development/Week%201%20-%20%20Mobile%20Applications)
+  * Week 2: [Introduction to HTML and CSS](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/1-%20Introduction%20to%20Mobile%20Development/Week%202%20-%20%20Introduction%20to%20HTML%20and%20CSS)
+  * Week 3: [React and React Native](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/1-%20Introduction%20to%20Mobile%20Development/Week%203%20-%20%20React%20and%20React%20Native)
+  * Week 4: [Course summary and graded assessment](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/1-%20Introduction%20to%20Mobile%20Development/Week%204%20-%20Course%20summary%20and%20graded%20assessment)
 </details>
 
 <details>

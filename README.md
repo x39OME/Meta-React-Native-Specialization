@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary><b>Course 5: </b><a href=""><b>React Native</b></a></summary>
+<summary><b>Course 5: </b><a href="https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/5%20-%20React%20Native"><b>React Native</b></a></summary>
 
   * Week 1: [Introduction to React Native](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/5%20-%20React%20Native/Week%201%20-%20Introduction%20to%20React%20Native)
   * Week 2: [Lists and Text Input in React Native](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/5%20-%20React%20Native/Week%202%20-%20Lists%20and%20Text%20Input%20in%20React%20Native)

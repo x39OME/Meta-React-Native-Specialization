@@ -6,14 +6,14 @@
 
 ## Table of Content
 
-  - Week 1: [Introduction to REST APIs]()
-  - Week 2: [Interacting with REST APIs in React Native]()
-  - Week 3: [Introduction to Databases & SQL]()
-  - Week 4: [Data in React Native]()
-  - Week 5: [Project assessment]()
+  - Week 1: [Introduction to REST APIs](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/6%20-%20Working%20with%20Data/Week%201)
+  - Week 2: [Interacting with REST APIs in React Native](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/6%20-%20Working%20with%20Data/Week%202)
+  - Week 3: [Introduction to Databases & SQL](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/6%20-%20Working%20with%20Data/Week%203)
+  - Week 4: [Data in React Native](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/6%20-%20Working%20with%20Data/Week%204)
+  - Week 5: [Project assessment](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/6%20-%20Working%20with%20Data/Week%205)
 
 ## Proof of Completion
 
-<a href=""> Verified Coursera Certifies</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/7UKXPV756ZEH"> Verified Coursera Certifies</a>
 
 <img src="./certificate.png" alt="certificate">
